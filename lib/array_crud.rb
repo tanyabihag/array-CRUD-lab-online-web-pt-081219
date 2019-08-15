@@ -1,12 +1,13 @@
-def create_an_empty_array
+def create_an_empty_array []
   
 end
 
-def create_an_array
+def create_an_array [1, 2, 3]
   
 end
 
 def add_element_to_end_of_array(array, element)
+  add_element_to_end_of_array << "Hi"
   
 end
 
